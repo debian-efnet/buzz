@@ -13,7 +13,7 @@ Best Practice
 irssi
 .....
 
-irssi is our recommended IRC client, ran in a screen session under a shell.
+irssi is our recommended IRC client, used in a screen session under a shell.
 With irssi and screen you can come and go from IRC, or switch between machines
 transparently without disrupting the channel.
 
