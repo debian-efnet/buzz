@@ -14,8 +14,8 @@ irssi
 .....
 
 irssi is our recommended IRC client, used in a screen session under a shell.
-With irssi and screen you can come and go from IRC, or switch between machines
-transparently without disrupting the channel.
+With irssi and screen you can come and go from IRC, or switch between 
+machines transparently without disrupting the channel.
 
 Your full public and private buffers are preserved, unlike a traditional
 IRC bouncer, ensuring you can /scrollback to see the full channel history
